@@ -26,6 +26,9 @@ body {
 .navbar-toggler-icon {
     color: #fff !important
 }
+img {
+  border-radius: 50%;
+}
 
 .btn {
     border-radius: 5px !important;
